@@ -22,7 +22,7 @@
         }
         .button {
             padding: 12px 24px;
-            background-color: #0e610e;
+            background-color: #198b19;
             color: white;
             border: none;
             border-radius: 5px;
@@ -61,3 +61,62 @@
         color: #929292;
         gap: 20px ;
     }
+
+    .lotas {
+
+color: #929292;
+margin-top: 25px;
+    }
+
+h1 {
+    width: 650px;
+    font-size: 38px;
+
+}
+
+p{
+    width: 650px;
+}
+.info{
+    display: flex;
+    gap: 30px;
+    margin-top: 40px;
+}
+.buttonlwayer{
+  padding: 14px 24px;
+        background-color: #198b19;
+        color: white;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        font-size: 18px;   
+}
+
+.number- a{
+    font-size: 25px;
+    color: #198b19;
+    font-weight: bold;
+    display: block;
+}
+.frenki {
+   display: flex;
+    justify-content: space-between;
+}
+
+.cimba{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 40px;
+    gap: 10px;
+}
+.limung{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 5px;
+}
+.hot-blue{
+    gap: 50px;
+    margin-top: 40px;
+}
